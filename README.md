@@ -1,7 +1,7 @@
 ## Jacob Cho
 [Experience](#experience) | [Skills](#skills) | [Education](#education)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hello!  I'm a former teacher who has turned to coding.  I enjoy creating things with code and I am looking forward to improving my skills.
 
 ## Projects
 
@@ -14,8 +14,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 **Joongbu University** Seoul, Korea (March 2019 to August 2021)  
 Professor of English
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Sinyang Elementary** Gimpo, Korea (March 2018 to March 2019)  
 Teacher of English
@@ -30,7 +28,7 @@ Teacher of English
 
 #### Communication
 
-- After university, I worked with local churches in the Denver area.  I gave public speeches and taught classes to university groups and high school students.  I vastly improved my speaking and writing skills.  I received many accolades and requests from local churches and even spoke at conferences in other cities.
+- After university, I worked with local churches in the Denver area.  I gave public speeches and taught classes to university groups and high school students.  I improved my speaking and writing skills.  I received many accolades and requests from local churches and even spoke at conferences in other cities.
 
 #### Leadership
 
@@ -70,8 +68,8 @@ Teacher of English
 
 ## Hobbies
 
-- Sports, particularly basketball.  I enjoy playing.  Also I am an avid fan of the NBA.  I love watching my favourite teams and tracking their statistics.  It is interesting to compare statistics (the numbers) and the "eye-test" (what my instincts tell me about certain players, teams).
-- Playing PC/video games.  I try to keep up-to-date with news about games and the new tech that emerges.
-- TV/movies
-- Travel
+- **Sports, particularly basketball**  I enjoy playing.  Also I am an avid fan of the NBA.  I love watching my favourite teams and tracking their statistics.  It is interesting to compare statistics (the numbers) and the "eye-test" (what my instincts tell me about certain players and teams).
+- **Playing PC/video games**   I try to keep up-to-date with news about games and the new tech that emerges.
+- **TV/movies**   Enjoy a good story.
+- **Travel** I have been to many countries and I enjoy learning about various cultures.
 
