@@ -12,8 +12,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Joongbu University (March 2019 to AUgust 2021)  
+Seoul, Korea 
+Professor of English
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -54,20 +55,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (Sept 2021 to Dec 2021)
+- 12 week programming course
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### US Qualified Secondary Maths and Social Studies (June 2015 to 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Teacher education program with Washington DC, OSSE
+
+#### Kings College London (Oct 2013 to Oct 2014)
+
+- MA Ministry(Merit)
+- Dissertation(A): "Leaders of the Church"
+
+#### Trinity Divinity School, Chicago USA (Jan 2011 to Aug 2013)
+
+- MA Divinity
+
+#### University of Colorado, USA (2000 to 2004)
+
+- BA Economics
 
 #### Any other qualifications
 
