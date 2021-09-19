@@ -1,5 +1,5 @@
 ## Jacob Cho
-[Education](#education)
+[Experience](#experience) | [Skills](#skills) | [Education](#education)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -10,48 +10,36 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
+## Experience
 
-Joongbu University (March 2019 to AUgust 2021)  
-Seoul, Korea 
+**Joongbu University** Seoul, Korea (March 2019 to August 2021)  
 Professor of English
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sinyang Elementary** Gimpo, Korea (March 2018 to March 2019)  
+Teacher of English
 
-- Any experience relevent to software development
+**CSIS International Secondary** Seoul, Korea (March 2017 to June 2017)  
+Teacher of Mathematics
+
+**Samcheok Middle School** Samcheok, Korea (Aug 2015 to Aug 2016)  
+Teacher of English
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Communication
 
--STAR
--What was the situation/task? (ST)
+- After university, I worked with local churches in the Denver area.  I gave public speeches and taught classes to university groups and high school students.  I vastly improved my speaking and writing skills.  I received many accolades and requests from local churches and even spoke at conferences in other cities.
 
--How was the skill used?
+#### Leadership
 
--What did you do? (action)
+- My work with local churches and community groups gave me the opportunity to exercise many leadership skills.  I built successful networks with local friends and contacts.  We hosted summer camps for students, charity events, and local community outreaches.
 
--What was the result?
+#### Independent Learning
 
+- In my work with churches I did not have many mentors or resources.  This led me to search out mentors, books, online resources and the like in order to maximise my abilities.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -79,10 +67,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BA Economics
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Sports, particularly basketball.  I enjoy playing.  Also I am an avid fan of the NBA.  I love watching my favourite teams and tracking their statistics.  It is interesting to compare statistics (the numbers) and the "eye-test" (what my instincts tell me about certain players, teams).
+- Playing PC/video games.  I try to keep up-to-date with news about games and the new tech that emerges.
+- TV/movies
+- Travel
+
