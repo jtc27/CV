@@ -1,6 +1,6 @@
 ## Jacob Cho
 
-![alt text](https://github.com/jtc27/CV/blob/master/profile4.jpg?raw=true)
+![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?raw=true)
 
 [Experience](#experience) | [Skills](#skills) | [Education](#education)
 
