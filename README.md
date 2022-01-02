@@ -2,6 +2,12 @@
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?raw=true)
 
+**CV Updated on 3rd January, 2022.  Happy New Year!** 
+
+**Who am I?** Hi I'm Jacob, an American who arrived in the UK on Sept 2021 to study programming at Maker's Academy.
+
+
+
 [Experience](#experience) | [Skills](#skills) | [Education](#education)
 
 Hello!  I'm a former teacher who has turned to coding.  I enjoy creating things with code and I am looking forward to improving my skills.
