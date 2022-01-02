@@ -1,4 +1,7 @@
 ## Jacob Cho
+
+![alt text](https://github.com/jtc27/CV/blob/master/profile4.jpg?raw=true)
+
 [Experience](#experience) | [Skills](#skills) | [Education](#education)
 
 Hello!  I'm a former teacher who has turned to coding.  I enjoy creating things with code and I am looking forward to improving my skills.
