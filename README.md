@@ -2,15 +2,18 @@
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?raw=true)
 
-**CV Updated on 3rd January, 2022.  Happy New Year!** 
+**CV Updated on 3rd January, 2022.  
+Happy New Year!** 
 
-**Who am I?** Hi I'm Jacob, an American who arrived in the UK on Sept 2021 to study programming at Maker's Academy.
+**Who am I?** Hi I'm Jacob, an American who arrived in the UK on Sept 2021 to study programming at Makers Academy.
+
+**What did I do before coding?** I was a teacher for many years.  From 2015-2021 I taught in South Korea.  My subjects included ESL, Maths and Science.  I taught multiple age groups.  My most recent job was Professor of English at Joongbu University in Seoul, a post I held for two and a half years.
+
+**Why did I decide to do coding?** At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers.
 
 
-
+Links in this CV
 [Experience](#experience) | [Skills](#skills) | [Education](#education)
-
-Hello!  I'm a former teacher who has turned to coding.  I enjoy creating things with code and I am looking forward to improving my skills.
 
 ## Projects
 
