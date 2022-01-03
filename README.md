@@ -11,9 +11,7 @@ Happy New Year!**
 
 **Why did I decide to do coding?** At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers.
 
-
-Links in this CV
-[Work Experiences](#work-experiences) | [Skills](#skills) | [Education](#education)
+[Projects](#projects) | [Work Experiences](#work-experiences) | [Skills](#skills) | [Education](#education)
 
 ## Projects
 
