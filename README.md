@@ -5,7 +5,7 @@
 **CV Updated on 3rd January, 2022.  
 Happy New Year!** 
 
-**Who am I?** Hi I'm Jacob, an American who arrived in the UK on Sept 2021 to study programming at Makers Academy.
+**Who am I?** Hi I'm Jacob, an American who arrived in the UK in Sept 2021 to study programming at Makers Academy.
 
 **What did I do before coding?** I was a teacher for many years.  From 2015-2021 I taught in South Korea.  My subjects included ESL, Maths and Science.  I taught multiple age groups.  My most recent job was Professor of English at Joongbu University in Seoul, a post I held for two and a half years.
 
