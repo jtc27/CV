@@ -13,7 +13,7 @@ Happy New Year!**
 
 
 Links in this CV
-[Experience](#experience) | [Skills](#skills) | [Education](#education)
+[Experiences](#experiences) | [Skills](#skills) | [Education](#education)
 
 ## Projects
 
@@ -22,7 +22,10 @@ Links in this CV
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experience
+## Experiences
+
+**Makers Academy** London, UK (Sept 2021 to Dec 2021)  
+Coding!
 
 **Joongbu University** Seoul, Korea (March 2019 to August 2021)  
 Professor of English
