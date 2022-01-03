@@ -22,7 +22,7 @@ Links in this CV
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Experiences
+## Work Experiences
 
 **Makers Academy** London, UK (Sept 2021 to Dec 2021)  
 Coding!
