@@ -11,7 +11,7 @@ Happy New Year!**
 
 **Why did I decide to do coding?** At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers.
 
-[Projects](#projects) | [Work Experiences](#work-experiences) | [Skills](#skills) | [Education](#education)
+[Projects](#projects) | [Work Experiences](#work-experiences) | [Coding Skills](#coding-skills) | [Other Skills](#other-skills) |  [Education](#education)
 
 ## Projects
 
@@ -37,7 +37,7 @@ Teacher of Mathematics
 **Samcheok Middle School** Samcheok, Korea (Aug 2015 to Aug 2016)  
 Teacher of English
 
-## Skills
+## Coding Skills
 
 #### Communication
 
