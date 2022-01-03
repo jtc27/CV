@@ -13,7 +13,7 @@ Happy New Year!**
 
 
 Links in this CV
-[Experiences](#experiences) | [Skills](#skills) | [Education](#education)
+[Work Experiences](#experiences) | [Skills](#skills) | [Education](#education)
 
 ## Projects
 
