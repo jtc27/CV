@@ -11,7 +11,7 @@ Happy New Year!**
 
 **Why did I decide to do coding?** At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers.
 
-[Projects](#projects) | [Work Experiences](#work-experiences) | [Coding Skills](#coding-skills) | [Other Skills](#other-skills) |  [Education](#education)
+[Projects](#projects) | [Work Experiences](#work-experiences) | [Tech Stack](#tech-stack) | [Skills](#Skills) |  [Education](#education)
 
 ## Projects
 
@@ -38,19 +38,28 @@ Teacher of Mathematics
 **Samcheok Middle School** Samcheok, Korea (Aug 2015 to Aug 2016)  
 Teacher of English
 
-## Coding Skills
+## Tech Stack
+
+- JavaScript (React, Node.js, Express, MongoDB, Jest)
+- Ruby (Rails, Sinatra, RSpec, Capybara)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS (Bootstrap)
+- Heroku, Git
+
+## Skills
 
 #### Communication
 
-- After university, I worked with local churches in the Denver area.  I gave public speeches and taught classes to university groups and high school students.  I improved my speaking and writing skills.  I received many accolades and requests from local churches and even spoke at conferences in other cities.
+- As an educator I was always preparing for the classroom.  I honed my writing and speaking skills in order to effectively reach my audience.  I have received much praise for my teaching and speaking abilities
 
 #### Leadership
 
-- My work with local churches and community groups gave me the opportunity to exercise many leadership skills.  I built successful networks with local friends and contacts.  We hosted summer camps for students, charity events, and local community outreaches.
+- After university, I worked with local churches in the Denver area.  My work with local churches and community groups gave me the opportunity to exercise many leadership skills.  I built successful networks with local friends and contacts. 
 
 #### Independent Learning
 
 - In my work with churches I did not have many mentors or resources.  This led me to search out mentors, books, online resources and the like in order to maximise my abilities.
+- I am a hard worker and driven to solve and figure out the challenges that are presented.  
 
 
 ## Education
