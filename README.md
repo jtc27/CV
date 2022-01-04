@@ -15,9 +15,9 @@ Happy New Year!**
 
 ## Projects
 
-| Name                         | Description       | Link              | Tech/tools        |
+| Project Repo                         | Description       | Link              | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experiences
