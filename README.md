@@ -17,7 +17,7 @@ Happy New Year!**
 
 | Project Repo                         | Description       | Link              | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | A webapp to do x. | React, Jest, etc. |
+| [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | A webapp to do x. | MERN stack (MongoDB, Express Js, React, Node Js), Javascript|
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experiences
