@@ -16,7 +16,7 @@ Happy New Year!**
 ## Projects
 
 | Name                         | Description       | Link              | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
