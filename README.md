@@ -19,7 +19,7 @@ Happy New Year!**
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | Final 2-week project for Makers Academy.  We created an online battle game using the MERN stack. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| Javascript, MERN stack (MongoDB, Express Js, React, Node Js) |
 | [Acebook](https://github.com/jtc27/acebook-Jeamm-Team)            | "Acebook" which is a Facebook clone project for weeks 8-9 of Makers Academy | [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)| Ruby, Rails, HTML, CSS, Heroku, AWS S3|
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [Makers BnB](https://github.com/ConorButler/makers-bnb)            | Book with Makers Bnb! (Weeks 5-6 of Makers) | local host | Ruby, HTML, CSS, SQL Database |
 
 ## Work Experiences
 
