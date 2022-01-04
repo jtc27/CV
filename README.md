@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?raw=true)
 
-**CV Updated on 3rd January, 2022.  
+**CV Updated on 4th January, 2022.  
 Happy New Year!** 
 
 **Who am I?** Hi I'm Jacob, an American who arrived in the UK in Sept 2021 to study programming at Makers Academy.
@@ -15,7 +15,7 @@ Happy New Year!**
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Link              | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
