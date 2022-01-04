@@ -17,7 +17,7 @@ Happy New Year!**
 
 | Project Repo                         | Description       | Link              | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | A webapp to do x. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| MERN stack (MongoDB, Express Js, React, Node Js), Javascript |
+| [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | Final 2-week project for Makers Academy.  We created an online battle game using the MERN stack. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| MERN stack (MongoDB, Express Js, React, Node Js), Javascript |
 | [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | A webapp to do x. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| MERN stack (MongoDB, Express Js, React, Node Js), Javascript |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
