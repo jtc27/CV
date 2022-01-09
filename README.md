@@ -1,6 +1,6 @@
 ## Jacob Cho
 
-![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?raw=true)
+<a href="url"><img src="https://github.com/jtc27/CV/blob/master/profile.jpg?" align="left" height="48" width="48" ></a>
 
 **CV Updated on 4th January, 2022.  
 Happy New Year!** 
