@@ -2,14 +2,11 @@
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?)
 
-**CV Updated on 4th January, 2022.  
-Happy New Year!** 
+**Who am I?** Hi I'm Jacob, an American who arrived in the UK in Sept 2021.  I am seeking to be a Full Stack Junior Developer.  Formerly I was a teacher.
 
-**Who am I?** Hi I'm Jacob, an American who arrived in the UK in Sept 2021 to study programming at Makers Academy.
+**What did I do before coding?** I was in education for many years.  From 2015-2021 I lived in South Korea.  During this time I taught English, Maths and Science.  I worked with multiple age groups.  My most recent job was Professor of English at Joongbu University in Seoul, a post I held for two and a half years.
 
-**What did I do before coding?** I was a teacher for many years.  From 2015-2021 I taught in South Korea.  My subjects included ESL, Maths and Science.  I taught multiple age groups.  My most recent job was Professor of English at Joongbu University in Seoul, a post I held for two and a half years.
-
-**Why did I decide to do coding?** At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers.
+**Why did I decide to do coding?** At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers Academy.  This is a 16 week software development bootcamp.
 
 [Projects](#projects) | [Work Experiences](#work-experiences) | [Tech Stack](#tech-stack) | [Skills](#Skills) |  [Education](#education)
 
@@ -18,8 +15,8 @@ Happy New Year!**
 | Project Repo                         | Description       | Link              | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | Final 2-week project for Makers Academy.  We created an online battle game using the MERN stack. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| Javascript, MERN stack (MongoDB, Express Js, React, Node Js) |
-| [Acebook](https://github.com/jtc27/acebook-Jeamm-Team)            | "Acebook" which is a Facebook clone project for weeks 8-9 of Makers Academy | [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)| Ruby, Rails, HTML, CSS, Heroku, AWS S3|
-| [Makers BnB](https://github.com/ConorButler/makers-bnb)            | Book with Makers Bnb! (Weeks 5-6 of Makers) | local host | Ruby, HTML, CSS, SQL Database |
+| [Acebook](https://github.com/jtc27/acebook-Jeamm-Team)            | "Acebook" which is a Facebook clone project.  It is designed for any user who wants a clean UI to read posts and make comments. | [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)| Ruby, Rails, HTML, CSS, Heroku, AWS S3|
+| [Makers BnB](https://github.com/ConorButler/makers-bnb)            | Book with Makers Bnb!  A Bnb booking site complete with login options as a host or a guest. | local host | Ruby, HTML, CSS, SQL Database |
 
 ## Work Experiences
 
