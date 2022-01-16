@@ -45,10 +45,6 @@ Teacher of Mathematics
 - Pre-Algebra, Algebra 1-2, Geometry, Pre-Calculus
 - Enhanced students' performances, particularly for their SAT prep
 
-**Samcheok Middle School** Samcheok, Korea (Aug 2015 to Aug 2016)  
-Teacher of English
-- Taught about Western culture and Global issues
-
 ## Tech Stack
 
 - JavaScript (React, Node.js, Express, MongoDB, Jest)
