@@ -66,7 +66,7 @@ Teacher of Mathematics
 #### Independent Learning
 
 - In my work with churches I did not have many mentors or resources.  This led me to seek out mentors, books, online resources and the like in order to maximise my abilities.
-- I am a hard worker and driven.  For example, I created websites that churches could look at for upcoming events such as conferences and summer camps.  This was to build anticipation as well as provide information.
+- I am a hard worker and I take pride in making an excellent product.  For example, I created websites that churches could look at for upcoming events such as conferences and summer camps.  This was to build anticipation as well as provide information.
 
 
 ## Education
