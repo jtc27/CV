@@ -30,19 +30,24 @@
 
 **Joongbu University** Seoul, Korea (March 2019 to August 2021)  
 Professor of English
-- Lecturer for English, highly valued by students and faculty
+- Lecturer for English, highly-valued by students and faculty
 - Development of curriculum into online resources
 - Managing Online lectures 
 - 1:1 Tutoring sessions with students who needed more study
 
 **Sinyang Elementary** Gimpo, Korea (March 2018 to March 2019)  
 Teacher of English
+- Teaching speaking skills and grammar
+- Training other teachers in English
 
 **CSIS International Secondary** Seoul, Korea (March 2017 to June 2017)  
 Teacher of Mathematics
+- Pre-Algebra, Algebra 1-2, Geometry, Pre-Calculus
+- Enhanced students' performances, particularly for their SAT prep
 
 **Samcheok Middle School** Samcheok, Korea (Aug 2015 to Aug 2016)  
 Teacher of English
+- Taught about Western culture and Global issues
 
 ## Tech Stack
 
