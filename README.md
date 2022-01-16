@@ -57,7 +57,7 @@ Teacher of Mathematics
 
 #### Communication
 
-- As an educator I was always preparing for the classroom.  I honed my writing and speaking skills in order to effectively reach my audience.  I have received much praise for my teaching and speaking abilities
+- As an educator I was always preparing for the classroom.  I honed my writing and speaking skills in order to effectively reach my audience.  I have received much praise for my teaching and speaking abilities.  Even with my partners and teams at Makers Academy I sought to communicate with clarity and brevity, and also in a timely manner.
 
 #### Leadership
 
@@ -65,8 +65,8 @@ Teacher of Mathematics
 
 #### Independent Learning
 
-- In my work with churches I did not have many mentors or resources.  This led me to search out mentors, books, online resources and the like in order to maximise my abilities.
-- I am a hard worker and driven to solve and figure out the challenges that are presented.  
+- In my work with churches I did not have many mentors or resources.  This led me to seek out mentors, books, online resources and the like in order to maximise my abilities.
+- I am a hard worker and driven.  For example, I created websites that churches could look at for upcoming events such as conferences and summer camps.  This was to build anticipation as well as provide information.
 
 
 ## Education
