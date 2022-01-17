@@ -2,7 +2,8 @@
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?)
 
-**Who am I?** Hi I'm Jacob, an American who arrived in the UK in Sept 2021.  I am seeking to be a Full Stack Junior Developer.  Formerly I was a teacher.  Nice to meet you!
+**Who am I?** 
+Hi I'm Jacob, an American who arrived in the UK in Sept 2021.  I am seeking to be a Full Stack Junior Developer.  Formerly I was a teacher.  Nice to meet you!
 
 **What did I do before coding?** I was in education for many years.  From 2015-2021 I lived in South Korea.  During this time I taught English, Maths and Science.  I worked with multiple age groups.  My most recent job was Professor of English at Joongbu University in Seoul, a post I held for two and a half years.
 
