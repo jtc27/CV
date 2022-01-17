@@ -9,7 +9,7 @@ Hi I'm Jacob, an American who arrived in the UK in Sept 2021.  I am seeking to b
 I was in education for many years.  From 2015-2021 I lived in South Korea.  During this time I taught English, Maths and Science.  I worked with multiple age groups.  My most recent job was Professor of English at Joongbu University in Seoul, a post I held for two and a half years.
 
 **Why did I decide to do coding?** <br>
-At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers Academy.  This is a 16 week software development bootcamp.
+At the start of 2021 I thought about a career change and got into coding through online resources.  I enjoyed it and envisioned myself doing it, which led me to study at Makers Academy.  This is a 16 week software development bootcamp.  **I finished Makers in Dec 2021, and now I am looking for a job as a junior developer.**
 
 [Projects](#projects) | [Work Experiences](#work-experiences) | [Tech Stack](#tech-stack) | [Skills](#Skills) |  [Education](#education)
 
