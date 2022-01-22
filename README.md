@@ -1,4 +1,4 @@
-## Jacob Cho
+## Jacob Cho CV
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?)
 
