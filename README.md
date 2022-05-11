@@ -17,6 +17,7 @@ At the start of 2021 I thought about a career change and got into coding through
 
 | Project Repo                         | Description       | Link              | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
+| [NBA Player Search](https://github.com/jtc27/nba-players-react)            | An NBA Player search to look up their statistics | [https://nba-players-react.vercel.app](https://nba-players-react.vercel.app/)| Javascript, React |
 | [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | Final 2-week project for Makers Academy.  We created an online battle game using the MERN stack. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| Javascript, MERN stack (MongoDB, Express Js, React, Node Js) |
 | [Acebook](https://github.com/jtc27/acebook-Jeamm-Team)            | "Acebook" which is a Facebook clone project.  It is designed for any user who wants a clean UI to read posts and make comments. | [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)| Ruby, Rails, HTML, CSS, Heroku, AWS S3|
 | [Makers BnB](https://github.com/ConorButler/makers-bnb)            | Book with Makers Bnb!  A Bnb booking site complete with login options as a host or a guest. | local host | Ruby, HTML, CSS, SQL Database |
