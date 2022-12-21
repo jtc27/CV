@@ -68,8 +68,8 @@ Teacher of Mathematics
 
 #### Kings College London (Oct 2013 to Oct 2014)
 
-- MA Ministry(Merit)
-- Dissertation(A): "Leaders of the Church"
+- MA Theology(Merit)
+- Dissertation on Leadership
 
 #### Trinity Divinity School, Chicago USA (Jan 2011 to Aug 2013)
 
