@@ -24,7 +24,7 @@
 ## Work Experiences
 
 **Makers Academy** London, UK (Sept 2021 to Dec 2021)  
-16 week programming course
+London programming course
 - Agile methodologies
 - Object-oriented design
 - Test driven development and behaviour driven development
@@ -61,13 +61,6 @@ Teacher of Mathematics
 
 
 ## Education
-
-#### Makers Academy (Sept 2021 to Dec 2021)
-- London programming course
-- OOP, TDD, MVP
-- Agile 
-- Ruby, Rails, JavaScript
-- RSpec, Jest
 
 #### US Qualified Secondary Maths and Social Studies (June 2015 to 2016)
 
