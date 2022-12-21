@@ -63,7 +63,7 @@ Teacher of Mathematics
 ## Education
 
 #### Makers Academy (Sept 2021 to Dec 2021)
-- 16 week programming course
+- London programming course
 - OOP, TDD, MVP
 - Agile 
 - Ruby, Rails, JavaScript
