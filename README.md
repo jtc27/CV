@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/jtc27/CV/blob/master/profile.jpg?)
 
-[Projects](#projects) | [Work Experiences](#work-experiences) | [Tech Stack](#tech-stack) | [Skills](#Skills) |  [Education](#education)
+[Projects](#projects) | [Tech Stack](#tech-stack) | [Work Experiences](#work-experiences) | [Skills](#Skills) |  [Education](#education)
 
 ## Projects
 
@@ -12,6 +12,14 @@
 | [Life of Bernard](https://github.com/jtc27/EP3-Gaming-FE)            | Final 2-week project for Makers Academy.  We created an online battle game using the MERN stack. | [https://life-of-bernard.herokuapp.com/](https://life-of-bernard.herokuapp.com/)| Javascript, MERN stack (MongoDB, Express Js, React, Node Js) |
 | [Acebook](https://github.com/jtc27/acebook-Jeamm-Team)            | "Acebook" which is a Facebook clone project.  It is designed for any user who wants a clean UI to read posts and make comments. | [https://hidden-everglades-40298.herokuapp.com/](https://hidden-everglades-40298.herokuapp.com/)| Ruby, Rails, HTML, CSS, Heroku, AWS S3|
 | [Makers BnB](https://github.com/ConorButler/makers-bnb)            | Book with Makers Bnb!  A Bnb booking site complete with login options as a host or a guest. | local host | Ruby, HTML, CSS, SQL Database |
+
+## Tech Stack
+
+- JavaScript (React, Node.js, Express, MongoDB, Jest)
+- Ruby (Rails, Sinatra, RSpec, Capybara)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS (Bootstrap)
+- Heroku, Git
 
 ## Work Experiences
 
@@ -40,28 +48,16 @@ Teacher of Mathematics
 - Pre-Algebra, Algebra 1-2, Geometry, Pre-Calculus
 - Enhanced students' performances, particularly for their SAT prep
 
-## Tech Stack
-
-- JavaScript (React, Node.js, Express, MongoDB, Jest)
-- Ruby (Rails, Sinatra, RSpec, Capybara)
-- SQL (PostgreSQL, TablePlus)
-- HTML, CSS (Bootstrap)
-- Heroku, Git
-
 ## Skills
 
 #### Communication
 
 - As an educator I was always preparing for the classroom.  I honed my writing and speaking skills in order to effectively reach my audience.  I have received much praise for my teaching and speaking abilities.  Even with my partners and teams at Makers Academy I sought to communicate with clarity and brevity, and also in a timely manner.
 
-#### Leadership
+#### Work
 
-- After university, I worked with local churches in the Denver area.  My work with local churches and community groups gave me the opportunity to exercise many leadership skills.  I built successful networks with local friends and contacts. 
-
-#### Independent Learning
-
-- In my work with churches I did not have many mentors or resources.  This led me to seek out mentors, books, online resources and the like in order to maximise my abilities.
-- I am a hard worker and I take pride in making an excellent product.  For example, I created websites that churches could look at for upcoming events such as conferences and summer camps.  This was to build anticipation as well as provide information.
+- Self-motivated learner and I love to explore solutions using resources I find online and elsewhere.
+- In my bootcamp group projects I worked hard to add value to the code.  In our "Life of Bernard" final project I researched how to use hooks and implement audio into the game.
 
 
 ## Education
